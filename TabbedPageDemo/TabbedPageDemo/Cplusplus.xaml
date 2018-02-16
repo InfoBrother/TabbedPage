@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TabbedPageDemo.Cplusplus"
+             Title="C++">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="c++.png"/>
+            <Label Text="Learn C++ For Free With InfoBrother:"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Get The Tutorial Now"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
